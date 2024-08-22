@@ -3,7 +3,7 @@ This project find outs the count of empty and occioped parking spaces in a car-p
 
 Clone the repository.
 
-git clone https://github.com/noorkhokhar99/car-parking-finder.git
+git clone https://github.com/Likitharedddy085/Parking-lot-detection.git
 Goto the cloned folder.
 cd car-parking-finder
 
